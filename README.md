@@ -40,8 +40,11 @@
 
 📫 Mi correo es **fretteleandro@live.com**
 </p>
-<div/>
 <br/>
 <hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lafsitoo&show_icons=true&locale=en" alt="Lafsitoo" /></p>
+# 📊GitHub Stats :
+	
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lafsitoo&show_icons=true&theme=radical" alt="Lafsitoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafsitoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lafsitoo" /></p>
+<div/>
