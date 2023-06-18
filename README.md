@@ -26,31 +26,29 @@
 # 💻Lenguajes y tecnologias : 
 
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html&perline=14" alt="HTML" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css&perline=14" alt="CSS" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js&perline=14" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react&perline=14" alt="ReactJS" title="React.js" />
-  <img src="https://skillicons.dev/icons?i=next&perline=14" alt="NextJS" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind&perline=14" alt="TailwindCSS" title="Tailwind" />
-  <img src="https://skillicons.dev/icons?i=threejs&perline=14" alt="ThreeJS" title="Tree.js" />
-  <img src="https://skillicons.dev/icons?i=git&perline=14" alt="GIT" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github&perline=14" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=figma&perline=14" alt="Figma" title="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman&perline=14" alt="Postman" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=vercel&perline=14" alt="Vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=vite&perline=14" alt="Vite" title="Vite" />
-  <img src="https://skillicons.dev/icons?i=vscode&perline=14" alt="VSCode" title="Visual Studio Code" />
-<a/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=next" alt="NextJS" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=threejs" alt="ThreeJS" title="Tree.js" />
+  <img src="https://skillicons.dev/icons?i=git" alt="GIT" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="Visual Studio Code" />
 <p/>  
 <hr/>
 
 # 🌐 Contactame :
   
 <p align="center">
-<a href="https://www.linkedin.com/in/leandro-ariel-frette/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" title="LinkedIn" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/leandro-ariel-frette/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" title="LinkedIn" /></a>
 <a href="https://discord.gg//Lafsitoo#4291" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" 
-title="Discord" height="50" width="50" /></a>
+title="Discord" /></a>
 
 📫 Mi correo es **fretteleandro@live.com**
 </p>
