@@ -48,8 +48,9 @@
 # 🌐 Contactame :
   
 <p align="center">
-<a href="https://www.linkedin.com/in/leandro-ariel-frette/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discord.gg//Lafsitoo#4291" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/leandro-ariel-frette/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" title="LinkedIn" height="50" width="50" /></a>
+<a href="https://discord.gg//Lafsitoo#4291" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" 
+title="Discord" height="50" width="50" /></a>
 
 📫 Mi correo es **fretteleandro@live.com**
 </p>
