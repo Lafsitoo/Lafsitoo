@@ -27,7 +27,20 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,figma,git,nextjs,postman,react,tailwind,threejs,vercel,vite,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html&perline=14" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&perline=14" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js&perline=14" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react&perline=14" alt="ReactJS" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=next&perline=14" alt="NextJS" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind&perline=14" alt="TailwindCSS" title="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=threejs&perline=14" alt="ThreeJS" title="Tree.js" />
+  <img src="https://skillicons.dev/icons?i=git&perline=14" alt="GIT" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&perline=14" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=figma&perline=14" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman&perline=14" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=vercel&perline=14" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vite&perline=14" alt="Vite" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=vscode&perline=14" alt="VSCode" title="Visual Studio Code" />
 <a/>
 <p/>  
 <hr/>
