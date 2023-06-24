@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenido!</h1>
 
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&lines=Soy+Front+End+Developer;JavaScript%20|%20React.js%20|%20Next.js%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&lines=Front+End+Developer;JavaScript%20|%20React.js%20|%20Next.js%20&center=true&width=500&height=50"></a>
 </p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=yellow" alt="7oSkaaa" height=25px, width=160px/>
@@ -13,9 +13,9 @@
 # 💫 Sobre mi :
 
 <h4>
-👋 ¡Hola! Me llamo Leandro. Soy un Desarrollador Web Front-end apasionado por la tecnología, la creatividad y el diseño. Me he especializado en JavaScript, Next.js, React.js, Tailwind CSS.</h4>
+👋 ¡Hola! Me llamo Leandro. Desarrollador Web Front-end apasionado por la tecnología, la creatividad y el diseño. Especializado en JavaScript, Next.js, React.js, Tailwind CSS.</h4>
  <h4>
-🚀 He tenido la oportunidad de participar en varios proyectos de desarrollo web, donde he demostrado mis habilidades para trabajar en equipo y resolver problemas de manera efectiva.
+🚀 He participado en varios proyectos de desarrollo web, donde demostré habilidades para trabajar en equipo y resolver problemas de manera efectiva.
 </h4>
 <div/>
 <br/>
