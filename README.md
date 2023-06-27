@@ -13,7 +13,7 @@
 # 💫 Sobre mi :
 
 <h4>
-👋 ¡Hola! Me llamo Leandro. Desarrollador Web Front-end apasionado por la tecnología, la creatividad y el diseño. Especializado en JavaScript, Next.js, React.js, Tailwind CSS.</h4>
+👾 Desarrollador Web Front-end apasionado por la tecnología, la creatividad y el diseño. Especializado en JavaScript, Next.js, React.js, Tailwind CSS.</h4>
  <h4>
 🚀 He participado en varios proyectos de desarrollo web, donde demostré habilidades para trabajar en equipo y resolver problemas de manera efectiva.
 </h4>
