@@ -55,8 +55,15 @@ title="Discord" /></a>
 <br/>
 <hr/>
 
-# 📊GitHub Stats :
-	
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lafsitoo&show_icons=true&theme=radical" alt="Lafsitoo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafsitoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lafsitoo" /></p>
+# 📊Historial de GitHub :
+
+<div>
+  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Lafsitoo&show_icons=true&theme=radical" alt="Lafsitoo" width="52.5%" max-width="450px" display="inline-block" /></span>
+  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafsitoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lafsitoo" width="40%" max-width="500px" display="inline-block" /></span>
+</div>
+
+
+
+
+
 <div/>
