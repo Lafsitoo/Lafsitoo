@@ -32,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" title="React.js" />
   <img src="https://skillicons.dev/icons?i=next" alt="NextJS" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" title="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="TailwindCSS" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=threejs" alt="ThreeJS" title="Tree.js" />
   <img src="https://skillicons.dev/icons?i=git" alt="GIT" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
