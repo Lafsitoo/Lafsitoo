@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenido!</h1>
 
 <p align="center">
-  <div href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&lines=Front+End+Developer;JavaScript%20|%20React.js%20|%20Next.js%20&center=true&width=500&height=50"></div>
+  <div align="center" href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&lines=Front+End+Developer;JavaScript%20|%20React.js%20|%20Next.js%20&center=true&width=500&height=50"></div>
 </p>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=yellow" alt="7oSkaaa" height=25px, width=160px/>
