@@ -14,11 +14,11 @@
   
 # 💫 Sobre mi :
 
-<h4>
-👾 Desarrollador Web Front-end apasionado por la tecnología, la creatividad y el diseño. Especializado en JavaScript, Next.js, React.js, Tailwind CSS.</h4>
- <h4>
+<p>
+👾 Desarrollador Web Front-end atraído por la tecnología, la creatividad y el diseño. Especializado en JavaScript, Next.js, React.js, Tailwind CSS.</p>
+ <p>
 🚀 He participado en varios proyectos de desarrollo web, donde demostré habilidades para trabajar en equipo y resolver problemas de manera efectiva.
-</h4>
+</p>
 <div/>
 <br/>
 <hr/>
