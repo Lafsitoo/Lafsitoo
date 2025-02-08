@@ -1,31 +1,31 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Bienvenidos!</h1>
+<h1 align="center">Hi, I'm Leandro Frette <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23C8BE25&lines=Front+End+Developer;JavaScript%20|%20React.js%20|%20Next.js%20&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?color=lilac&lines=Front+End+Developer;JavaScript%20|%20React.js%20|%20Next.js%20&center=true&width=500&height=50">
   </div>
 </p>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=yellow" alt="7oSkaaa" height=25px, width=160px/>
- <p/>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
-# 💫 Sobre mi :
+<h1 align="center">💫&nbsp;<i><b>About me</b></i></h1>
+
 
 <p>
-👾 Desarrollador Web Front-end atraído por la tecnología, la creatividad y el diseño. Especializado en JavaScript, Next.js, React.js, Tailwind CSS.</p>
- <p>
-🚀 He participado en varios proyectos de desarrollo web, donde demostré habilidades para trabajar en equipo y resolver problemas de manera efectiva.
+Front-end Web Developer drawn to technology, creativity, and design. Specialized in JavaScript, Next.js, React.js, and Tailwind CSS.
+</p>
+
+<p>
+I have participated in several web development projects, where I demonstrated skills in teamwork and effective problem-solving.
 </p>
 <div/>
 <br/>
-<hr/>
-  
-<div align="center">
 
-# 💻Lenguajes y tecnologias : 
+
+
+<h1 align="center">🛠&nbsp;<i><b>Technologies</b></i></h1>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
@@ -44,24 +44,22 @@
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="Visual Studio Code" />
 <p/>  
-<hr/>
+<br>
 
-# 🌐 Contactame :
-  
-<p align="center">
-<a href="https://www.linkedin.com/in/leandro-ariel-frette/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" title="LinkedIn" /></a>
-<a href="https://discord.gg//Lafsitoo#4291" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="discord" 
-title="Discord" /></a>
+<h1 align="center">🌐&nbsp;<i><b>Contact me</b></i></h1>
 
-📫 Mi correo es **fretteleandro@live.com**
-</p>
-<br/>
-<hr/>
 
-# 📊Historial de GitHub :
+<a href="https://www.linkedin.com/in/leandro-ariel-frette/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="LinkedIn" /></a>
+<a href="mailto:fretteleandro.work@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" 
+title="Gmail" /></a>
+<br>
+<br>
+
+
+<h1 align="center">⚙️&nbsp;<i><b>GitHub Analytics</b></i></h1>
+
 
 <div>
-  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Lafsitoo&show_icons=true&theme=radical" alt="Lafsitoo" width="52.5%" max-width="450px" display="inline-block" /></span>
-  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafsitoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lafsitoo" width="40%" max-width="500px" display="inline-block" /></span>
-</div>
+  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Lafsitoo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Lafsitoo" width="52.5%" max-width="450px" display="inline-block" /></span>
+  <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lafsitoo&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Lafsitoo" width="40%" max-width="500px" display="inline-block" /></span>
 </div>
